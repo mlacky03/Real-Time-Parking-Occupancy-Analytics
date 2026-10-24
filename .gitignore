@@ -1,0 +1,6 @@
+*.json
+
+# Ignorisani folderi
+checkpoint/
+izlaz/
+stream_data/
